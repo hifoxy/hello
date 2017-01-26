@@ -1,1 +1,2 @@
-This content located in branch dev
+This content located in branch dev.
+Add second line.
